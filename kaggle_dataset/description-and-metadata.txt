@@ -1,0 +1,45 @@
+Context
+
+A central purpose of The Human Freedom Index is to paint a broad but reasonably accurate picture of the extent of overall freedom in the world. A larger purpose is to more carefully explore what we mean by freedom and to better understand its relationship to any number of other social and economic phenomena.
+Content
+
+The Human Freedom Index measures economic freedoms such as the freedom to trade or to use sound money, and it captures the degree to which people are free to enjoy the major freedoms often referred to as civil liberties—freedom of speech, religion, association, and assembly— in the countries in the survey. In addition, it includes indicators on rule of law, crime and violence, freedom of movement, and legal discrimination against same-sex relationships. We also include nine variables pertaining to women-specific freedoms that are found in various categories of the index.
+Citation
+
+Ian Vásquez and Tanja Porčnik, The Human Freedom Index 2018: A Global Measurement of Personal, Civil, and Economic Freedom (Washington: Cato Institute, Fraser Institute, and the Friedrich Naumann Foundation for Freedom, 2018).
+
+
+
+Usage Information
+
+License
+Database: Open Database, Contents: © Original Authors
+
+Visibility
+Public
+Provenance
+
+Sources
+The Human Freedom Index
+Maintainers
+
+Dataset owner
+Guillermina Sutter SchneiderGuillermina Sutter Schneider
+Guillermina Sutter Schneider
+Updates
+
+Expected update frequency
+Annually
+
+Last updated
+2020-01-10
+
+Date created
+2018-12-17
+
+Current version
+Version 2
+Date Coverage
+
+Spatial coverage
+162 countries
